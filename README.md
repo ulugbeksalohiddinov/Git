@@ -83,6 +83,7 @@ git marge branch_name
 
 _Misol feature branchni main branchga birlashtirishmoqchi bo'lsam,
 main branchga o'taman va marge qilib feature branchni birlashtirvolaman._
+
 --------------------------------------------------------------------------------------
 
  **- Remoteda turgan repoga qo'shish**

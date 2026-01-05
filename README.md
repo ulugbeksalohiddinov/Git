@@ -18,12 +18,17 @@ git add .   (path)
 git rm --cashed file-name or .
 
 git config --global user.name "Your name"
+
 git config --global user.email "your_email@gamil.com"
-check
+
+ **- Check config users**
+
 git config --global user.name
+
 git config --global user.email
 
-git commit -m "message_name"  Committed area
+ **- Committed area**
+git commit -m "message_name"  
 
 git log
 git log --oneline

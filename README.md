@@ -74,7 +74,7 @@ git checkout branch_name
 git checkout -b branch_name  
 
 
-_ **"HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi**_
+_**"HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi**_
 
 
  **- Branchlarni birlashtirish**

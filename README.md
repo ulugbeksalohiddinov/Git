@@ -14,6 +14,7 @@ git status
  
 git add .   (path) 
 
+--------------------------------------------------------
 git rm --cashed file-name or .
 
 git config --global user.name "Your name"

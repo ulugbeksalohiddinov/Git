@@ -34,11 +34,16 @@ git config --global user.email
 git commit -m "message_name"  
 
 git log
+
 git log --oneline
 
-git restore file-name # bu kodega o'zgartitish kiritilgandan so'ng 1 ta oldingi commitga qaytarish uchun ishlatiladi.
+ **- bu kodega o'zgartitish kiritilgandan so'ng 1 ta oldingi commitga qaytarish uchun ishlatiladi.**
 
-git commit -am "message_name"  # bu komanda 1 vaqtda ham add qiladi va commit qiladi
+git restore file-name 
+
+ **- bu komanda 1 vaqtda ham add qiladi va commit qiladi**
+
+git commit -am "message_name"  
 
 
 

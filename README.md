@@ -4,7 +4,7 @@
 
 - Working area
   
-  git init   
+git init   
 
 git status    #faqat Working va Staging area larni ko'radi
 git add .   (path)   #Staging area

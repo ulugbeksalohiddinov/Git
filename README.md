@@ -83,3 +83,29 @@ git marge branch_name
 
 _Misol feature branchni main branchga birlashtirishmoqchi bo'lsam,
 main branchga o'taman va marge qilib feature branchni birlashtirvolaman._
+--------------------------------------------------------------------------------------
+
+ **- Remoteda turgan repoga qo'shish**
+
+ git remote add origin git@gitlab.mkb.uz:mahalla/mahalla_backend.git
+
+_origin bu oddiygina nomi boshqa nom qo'ysa ham bo'ladi, misol devops._
+
+**git fetch + git merge = git pull**
+
+ **- PUSH qilingan commit’ni rollback qilib orqaga qaytarish (eng xavfsiz usul) git revert ishlatiladi**
+
+git revert <commit_hash>
+
+_Bunda_
+
+✔️ History buzilmaydi
+✔️ Yangi commit yaratiladi
+✔️ Production uchun eng to‘g‘ri yo‘l
+
+**📌 Misol:**
+
+git revert a1b2c3d
+git push origin main
+ 
+

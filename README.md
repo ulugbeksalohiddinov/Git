@@ -73,10 +73,11 @@ git checkout branch_name
 
 git checkout -b branch_name  
 
-"HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi
+
+# "HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi
 
 
-Branchlarni birlashtirish
+ **- Branchlarni birlashtirish**
 
 git marge branch_name
 

@@ -6,7 +6,7 @@
 
 git init   
 
-**- faqat Working va Staging area larni ko'radi**
+**- faqat Working va Staging arealarni ko'radi**
 
 git status   
 

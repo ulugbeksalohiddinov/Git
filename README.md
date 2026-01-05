@@ -2,7 +2,8 @@
 
 **Gitda 3 ta qisim bor**: Working area -- Staging area -- Committed
 
-git init   #Working area
+- Working area
+  git init   
 
 git status    #faqat Working va Staging area larni ko'radi
 git add .   (path)   #Staging area

@@ -87,6 +87,8 @@ main branchga o'taman va marge qilib feature branchni birlashtirvolaman._
 --------------------------------------------------------------------------------------
 
  **- Remoteda turgan repoga qo'shish**
+ 
+**📌 Misol:**
 
  git remote add origin git@gitlab.mkb.uz:mahalla/mahalla_backend.git
 

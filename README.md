@@ -29,7 +29,7 @@ git config --global user.email
 
 -------------------------------------------------------
 
- **- Committed area**
+ **Committed area**
  
 git commit -m "message_name"  
 

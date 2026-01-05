@@ -3,9 +3,10 @@
 **Gitda 3 ta qisim bor**: Working area -- Staging area -- Committed
 
 **- Working area**  
+
 git init   
 
-**  - faqat Working va Staging area larni ko'radi**
+**- faqat Working va Staging area larni ko'radi**
 
 git status   
 

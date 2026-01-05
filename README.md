@@ -2,11 +2,13 @@
 
 **Gitda 3 ta qisim bor**: Working area -- Staging area -- Committed
 
-- Working area
-  
+**- Working area**  
 git init   
 
-git status    #faqat Working va Staging area larni ko'radi
+**  - faqat Working va Staging area larni ko'radi**
+
+git status   
+
 git add .   (path)   #Staging area
 git rm --cashed file-name or .
 

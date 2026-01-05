@@ -27,7 +27,10 @@ git config --global user.name
 
 git config --global user.email
 
+-------------------------------------------------------
+
  **- Committed area**
+ 
 git commit -m "message_name"  
 
 git log

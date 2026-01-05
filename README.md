@@ -45,16 +45,33 @@ git restore file-name
 
 git commit -am "message_name"  
 
+--------------------------------------------------------
 
+  **- Git branches**
 
-Git branches
+ **- branchlar ro'yhatini ko'rsatadi. Qaysi branchda turganini * bilan ko'rsatadi**
 
-git branch # branchlar ro'yhatini ko'rsatadi. Qaysi branchda turganini * bilan ko'rsatadi 
-git branch branch_name # qandaydur nom bilan branch yaratish
-git branch -a  # barcha branchlarni ko'rsatadi
-git branch -D branch_name  # branchni o'chirish
-git checkout branch_name  # branchga o'tish
-git checkout -b branch_name  # bu agar yo'q branch bo'lsa ham uni yaratib keyin unga o'tadi, agar bor bo'lsa xatolik beradi
+git branch 
+
+ **- qandaydur nom bilan branch yaratish**
+ 
+git branch branch_name
+
+ **- barcha branchlarni ko'rsatadi**
+
+git branch -a
+
+**- branchni o'chirish**
+ 
+git branch -D branch_name  
+
+ **- branchga o'tish**
+ 
+git checkout branch_name
+
+**- bu agar yo'q branch bo'lsa ham uni yaratib keyin unga o'tadi, agar bor bo'lsa xatolik beradi**
+
+git checkout -b branch_name  
 
 "HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi
 

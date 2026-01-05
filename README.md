@@ -81,5 +81,5 @@ _**"HEAD" da commit bo'yicha qaysi branchga qarab turgani ko'rinadi**_
 
 git marge branch_name
 
-Misol feature branchni main branchga birlashtirishmoqchi bo'lsam,
-main branchga o'taman va marge qilib feature branchni birlashtirvolaman.
+_Misol feature branchni main branchga birlashtirishmoqchi bo'lsam,
+main branchga o'taman va marge qilib feature branchni birlashtirvolaman._

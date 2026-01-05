@@ -47,7 +47,7 @@ git commit -am "message_name"
 
 --------------------------------------------------------
 
-  **- Git branches**
+  **Git branches**
 
  **- branchlar ro'yhatini ko'rsatadi. Qaysi branchda turganini * bilan ko'rsatadi**
 
